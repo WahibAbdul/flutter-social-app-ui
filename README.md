@@ -1,2 +1,1 @@
-# flutter-social-app-ui
-UI/UX for a social media application for flutter
+<p>UI/UX for a social media application with clean and beautiful design with animations.</p>
